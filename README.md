@@ -90,7 +90,7 @@ I'm passionate about building scalable infrastructure, automating repetitive tas
 
 ## 💼 Professional Experience
 
-### IT Operations & Back-Office Management (2 Years)
+### IT Operations & Back-Office Management (1 Year)
 - **Computer Operations:** System monitoring, maintenance, troubleshooting
 - **Data Entry & Processing:** High-volume data management, accuracy verification
 - **MARG ERP Administration:** Business operations support, reporting
