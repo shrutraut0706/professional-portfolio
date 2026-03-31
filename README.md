@@ -158,7 +158,7 @@ Manage and configure servers at scale. Playbooks for web servers, databases, mon
 ---
 
 ### 4. **Jenkins CI/CD Pipeline** - Continuous Integration/Deployment
-📁 Repository: [jenkins-cicd-pipeline](https://github.com/shrutiraut0706/jenkins-cicd-pipeline)
+📁 Repository: [jenkins-cicd-pipeline](https://github.com/shrutraut0706/jenkins-cicd-pipeline.git)
 
 Implement production-ready CI/CD pipelines. Multi-stage builds, automated testing, code quality gates, Docker integration, and multi-environment deployment strategies.
 
