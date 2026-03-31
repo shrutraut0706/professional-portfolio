@@ -142,7 +142,7 @@ Build and manage containerized applications. Multi-stage Dockerfile optimization
 ---
 
 ### 3. **Ansible Configuration** - Configuration Management
-📁 Repository: [ansible-configuration](https://github.com/shrutiraut0706/ansible-configuration)
+📁 Repository: [ansible-configuration](https://github.com/shrutraut0706/ansible-configuration.git)
 
 Manage and configure servers at scale. Playbooks for web servers, databases, monitoring, security hardening, and complete orchestration workflows.
 
