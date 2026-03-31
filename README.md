@@ -126,7 +126,7 @@ Deploy AWS infrastructure automatically using Terraform. Includes VPC setup, EC2
 ---
 
 ### 2. **Docker Containerization** - Container Management
-📁 Repository: [docker-containerization](https://github.com/shrutiraut0706/docker-containerization)
+📁 Repository: [docker-containerization](https://github.com/shrutraut0706/docker-containerization.git)
 
 Build and manage containerized applications. Multi-stage Dockerfile optimization, Docker Compose stacks, security best practices, and health checks.
 
