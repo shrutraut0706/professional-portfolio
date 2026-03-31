@@ -24,7 +24,7 @@
 ### IT Operations Projects
 5. 🐍 [Data Entry Automation](https://github.com/shrutraut0706/data-entry-automation.git)
 6. 📊 [Excel Reporting Dashboard](https://github.com/shrutraut0706/excel-reporting-dashboard.git)
-7. 📖 [MARG ERP Guide](https://github.com/shrutiraut0706/marg-erp-guide)
+7. 📖 [MARG ERP Guide](https://github.com/shrutraut0706/marg-erp-guide.git)
 8. 🐧 [Linux & Git Practice](https://github.com/shrutiraut0706/linux-git-practice)
 
 ## 💼 **How to Reach Me**
