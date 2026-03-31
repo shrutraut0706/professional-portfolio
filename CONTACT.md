@@ -16,7 +16,7 @@
 - 📊 **All Projects Listed Below**
 
 ### DevOps Projects
-1. 🏗️ [Terraform Infrastructure](https://github.com/shrutiraut0706/terraform-infrastructure)
+1. 🏗️ [Terraform Infrastructure]https://github.com/shrutraut0706/terraform-infrastructure.git
 2. 🐳 [Docker Containerization](https://github.com/shrutiraut0706/docker-containerization)
 3. 🤖 [Ansible Configuration](https://github.com/shrutiraut0706/ansible-configuration)
 4. 📦 [Jenkins CI/CD Pipeline](https://github.com/shrutiraut0706/jenkins-cicd-pipeline)
