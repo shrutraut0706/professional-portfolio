@@ -22,7 +22,7 @@
 4. 📦 [Jenkins CI/CD Pipeline](https://github.com/shrutraut0706/jenkins-cicd-pipeline.git)
 
 ### IT Operations Projects
-5. 🐍 [Data Entry Automation](https://github.com/shrutiraut0706/data-entry-automation)
+5. 🐍 [Data Entry Automation](https://github.com/shrutraut0706/data-entry-automation.git)
 6. 📊 [Excel Reporting Dashboard](https://github.com/shrutiraut0706/excel-reporting-dashboard)
 7. 📖 [MARG ERP Guide](https://github.com/shrutiraut0706/marg-erp-guide)
 8. 🐧 [Linux & Git Practice](https://github.com/shrutiraut0706/linux-git-practice)
