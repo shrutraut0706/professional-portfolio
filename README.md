@@ -110,7 +110,7 @@ I'm passionate about building scalable infrastructure, automating repetitive tas
 ## 🚀 Featured Projects
 
 ### 1. **Terraform Infrastructure** - Infrastructure as Code
-📁 Repository: [terraform-infrastructure](https://github.com/shrutiraut0706/terraform-infrastructure)
+📁 Repository: [terraform-infrastructure](https://github.com/shrutraut0706/terraform-infrastructure.git)
 
 Deploy AWS infrastructure automatically using Terraform. Includes VPC setup, EC2 instances, RDS databases, security groups, and multi-environment configurations.
 
