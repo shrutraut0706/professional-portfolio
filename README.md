@@ -184,7 +184,7 @@ Automate repetitive data entry tasks using Python. Excel file processing, CSV ha
 ---
 
 ### 6. **MARG ERP Guide** - Enterprise Software
-📁 Repository: [marg-erp-guide](https://github.com/shrutiraut0706/marg-erp-guide)
+📁 Repository: [marg-erp-guide](https://github.com/shrutraut0706/marg-erp-guide.git)
 
 Comprehensive guide to MARG ERP system. Business process documentation, features overview, implementation best practices for small to medium businesses.
 
