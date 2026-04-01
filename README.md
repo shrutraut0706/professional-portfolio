@@ -202,7 +202,7 @@ Business intelligence dashboards using Excel. Charts, pivot tables, automated re
 ---
 
 ### 8. **Linux & Git Practice** - Version Control & Linux
-📁 Repository: [linux-git-practice](https://github.com/shrutiraut0706/linux-git-practice)
+📁 Repository: [linux-git-practice](https://github.com/shrutraut0706/linux-git-practice.git)
 
 Linux system administration and Git workflow. Commands reference, scripting examples, Git branching strategies, and best practices for version control.
 
