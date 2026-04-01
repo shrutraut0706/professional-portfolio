@@ -324,14 +324,14 @@ Feel free to reach out for:
 ## 🔗 Quick Links
 
 ### All Projects & Repositories
-1. [🏗️ Terraform Infrastructure](https://github.com/shrutiraut0706/terraform-infrastructure)
-2. [🐳 Docker Containerization](https://github.com/shrutiraut0706/docker-containerization)
-3. [🤖 Ansible Configuration](https://github.com/shrutiraut0706/ansible-configuration)
-4. [📦 Jenkins CI/CD Pipeline](https://github.com/shrutiraut0706/jenkins-cicd-pipeline)
-5. [🐍 Data Entry Automation](https://github.com/shrutiraut0706/data-entry-automation)
-6. [📊 Excel Reporting Dashboard](https://github.com/shrutiraut0706/excel-reporting-dashboard)
-7. [📖 MARG ERP Guide](https://github.com/shrutiraut0706/marg-erp-guide)
-8. [🐧 Linux & Git Practice](https://github.com/shrutiraut0706/linux-git-practice)
+1. [🏗️ Terraform Infrastructure](https://github.com/shrutraut0706/terraform-infrastructure.git)
+2. [🐳 Docker Containerization](https://github.com/shrutraut0706/docker-containerization.git)
+3. [🤖 Ansible Configuration](https://github.com/shrutraut0706/ansible-configuration.git)
+4. [📦 Jenkins CI/CD Pipeline](https://github.com/shrutraut0706/jenkins-cicd-pipeline.git)
+5. [🐍 Data Entry Automation](https://github.com/shrutraut0706/data-entry-automation.git)
+6. [📊 Excel Reporting Dashboard](https://github.com/shrutraut0706/excel-reporting-dashboard.git)
+7. [📖 MARG ERP Guide](https://github.com/shrutraut0706/marg-erp-guide.git)
+8. [🐧 Linux & Git Practice](https://github.com/shrutraut0706/linux-git-practice.git)
 
 ### Resources
 - [Portfolio Repository](https://github.com/shrutiraut0706/professional-portfolio) ← You are here!
