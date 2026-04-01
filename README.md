@@ -193,7 +193,7 @@ Comprehensive guide to MARG ERP system. Business process documentation, features
 ---
 
 ### 7. **Excel Reporting Dashboard** - Data Analysis
-📁 Repository: [excel-reporting-dashboard](https://github.com/shrutiraut0706/excel-reporting-dashboard)
+📁 Repository: [excel-reporting-dashboard](https://github.com/shrutraut0706/excel-reporting-dashboard.git)
 
 Business intelligence dashboards using Excel. Charts, pivot tables, automated reporting, KPI tracking, data visualization for decision-making.
 
