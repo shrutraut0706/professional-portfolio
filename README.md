@@ -175,7 +175,7 @@ Implement production-ready CI/CD pipelines. Multi-stage builds, automated testin
 ---
 
 ### 5. **Data Entry Automation** - Python Scripting
-📁 Repository: [data-entry-automation](https://github.com/shrutiraut0706/data-entry-automation)
+📁 Repository: [data-entry-automation](https://github.com/shrutraut0706/data-entry-automation.git)
 
 Automate repetitive data entry tasks using Python. Excel file processing, CSV handling, batch operations, data validation, and error handling.
 
